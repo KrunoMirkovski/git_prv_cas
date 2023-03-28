@@ -1,0 +1,12 @@
+commit 76fb5e5b698e9054760a05739be466e541f4c78f
+Author: Krunislav Mirkovski <kmirkovski@gmail.com>
+Date:   Wed Mar 22 20:06:21 2023 +0100
+
+dodavanje na nov fajl
+
+
+commit 93ef95393ae498f578ec66c0dad6707d748df2cd
+Author: Krunislav Mirkovski <kmirkovski@gmail.com>
+Date:   Tue Mar 21 21:44:59 2023 +0100
+
+dodaden vtor fajl
